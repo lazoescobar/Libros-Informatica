@@ -1,0 +1,37 @@
+
+	INCREMENTOS
+
+	postIncrementos:
+
+        	var miVariable  =  1;
+
+        	miVariable ++;
+
+        	'resultado sera 2 '
+	
+	preIncrementos:
+
+		var miVariable  =  1;
+
+                ++ miVariable;
+
+                'resultado sera 2 '
+
+
+	DECREMENTOS
+
+        postDecrementos:
+
+                var miVariable  =  1;
+
+                miVariable --;
+
+                'resultado sera 0 '
+
+        preDecrementos:
+
+                var miVariable  =  1;
+
+                -- miVariable;
+
+                'resultado sera 2 '
